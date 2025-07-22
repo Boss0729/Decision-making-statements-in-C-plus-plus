@@ -77,25 +77,7 @@ Algorithm:
 5. Else, print "c is largest"
 6. End
 
-# Program 4: Subject Selector using Switch Case
-This program provides the user with a numbered menu of five options implying a subject name. The user is prompted to enter an option from 1 to 5, following these options:
-
-- Mathematical Transformation Techniques
-- Digital Circuit and Logic Design
-- Electronic Devices and Circuits 
-- Network Theory
-- Signals and Systems
- 
-If the user inputs a number that is not in this range, the program produces "Invalid choice." This method allows users to be clearly directed to pre-defined options that they may select from. 
-Menu-driven programs are great for designing interfaces for end users when options are given to users where each has diffrent logic behind each casee.
-
-Algorithm:
-1. Start
-2. Display subject menu (1–5)
-3. Input user choice
-4. Use switch to print subject name based on choice
-5. If choice not in 1–5, print "Invalid choice"
-6. End
+# Program 4: 
 
 
 # Program 5: Basic Arithmetic Calculator using Switch case
